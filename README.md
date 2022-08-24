@@ -8,8 +8,8 @@ Fork a copy of this repository to your Github account and when you have complete
 
 - Clone the repository: `git clone https://github.com/ghulam-murtazaa/story-prompt.git`
 - Install ruby version 2.7.2 if not already installed
-- For creating story: ruby ./script/story_prompt
-- For viewing the statistics of stories
+- For creating story: ruby ./script/story_prompt.rb -r [json-string]
+- For viewing the statistics of stories -s
 ## Project
 
 ### Story Prompt Generator

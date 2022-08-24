@@ -4,6 +4,12 @@ Thanks for doing this project as part of your interview process. We appreciate y
 
 Fork a copy of this repository to your Github account and when you have completed the project below, send a link to ben@commonpaper.com.
 
+## Instructions to run script
+
+- Clone the repository: `git clone https://github.com/ghulam-murtazaa/story-prompt.git`
+- Install ruby version 2.7.2 if not already installed
+- For creating story: ruby ./script/story_prompt
+- For viewing the statistics of stories
 ## Project
 
 ### Story Prompt Generator

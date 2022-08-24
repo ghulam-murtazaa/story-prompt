@@ -1,0 +1,6 @@
+{ "NUMBER": "6", "UNIT_OF_MEASURE": "meter", "PLACE": "park", "ADJECTIVE": "beautiful", "NOUN": "flower" }
+{ "NUMBER": "4", "UNIT_OF_MEASURE": "km", "PLACE": "office", "ADJECTIVE": "good", "NOUN": "table" }
+{ "NUMBER": "6", "UNIT_OF_MEASURE": "meter", "PLACE": "park", "ADJECTIVE": "beautiful", "NOUN": "flower" }
+{ "NUMBER": "1", "UNIT_OF_MEASURE": "mile", "PLACE": "work", "ADJECTIVE": "blue", "NOUN": "rock" }
+{ "NUMBER": "1", "UNIT_OF_MEASURE": "mile", "PLACE": "work", "ADJECTIVE": "blue", "NOUN": "rockkk" }
+{ "NUMBER": "1", "UNIT_OF_MEASURE": "mile", "PLACE": "work", "ADJECTIVE": "blue", "NOUN": "rockkssk" }
